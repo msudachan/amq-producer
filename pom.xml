@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>amqproducer</artifactId>
+	<artifactId>amq-producer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>amqproducer</name>
+	<name>amq-producer</name>
 	<description>amqproducer demo project for Spring Boot</description>
 
 	<properties>
